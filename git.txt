@@ -2,3 +2,14 @@
 when we create project from this machine for starting working with itg
 
 to create git repostry-(git init)
+
+then go to github create new repo name add origin then (git repo add origin "https://github.com/Omkar237/localrepo.git")
+tells which repo (git remote -v)
+
+to get branch name(git branch) to chnge brnch name (git branch -M main)
+
+to finally push our code in that repo (git push -u origin main)
+
+to go on new branch from main to new (git checkout -b feature1)
+
+to delete branch(git branch -d feature2)
