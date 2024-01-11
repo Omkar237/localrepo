@@ -14,4 +14,10 @@ to go on new branch from main to new (git checkout -b feature1)
 
 to delete branch(git branch -d feature2)
 
+<<<<<<< HEAD
 to merge both featuer1 and main
+=======
+to merge feature with main(git merge main)
+
+to see data on main (git pull origin main)
+>>>>>>> main
