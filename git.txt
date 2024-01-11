@@ -1,0 +1,4 @@
+
+when we create project from this machine for starting working with itg
+
+to create git repostry-(git init)
