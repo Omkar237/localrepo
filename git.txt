@@ -13,3 +13,5 @@ to finally push our code in that repo (git push -u origin main)
 to go on new branch from main to new (git checkout -b feature1)
 
 to delete branch(git branch -d feature2)
+
+to merge both featuer1 and main
